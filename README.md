@@ -41,18 +41,17 @@ Investigating **sustainable energy solutions** for rural communities to bridge t
 ## 📊 GitHub Stats  
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GenoJ83&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+
+<!-- Updated stats with cache refresh and private contributions -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GenoJ83&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
+
+<!-- Real-time contribution graph -->
+<img src="https://ghchart.rshah.org/GenoJ83" alt="Geno's Contribution Graph" width="100%"/>
+
+<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GenoJ83&layout=compact&theme=radical&hide_border=true)
-  
-</div>
 
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=GenoJ83&theme=radical&hide_border=true)
-  
 </div>
-
 ## 📫 Let's Connect!  
 
 <div align="center">
