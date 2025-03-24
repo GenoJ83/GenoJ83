@@ -21,9 +21,8 @@ Welcome to my GitHub portfolio! I'm passionate about technology, research, and c
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GenoJ83&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
-- LinkedIn: [Your Profile Link]
-- Twitter: [Your Handle]
-- Email: [Your Email Address]
+- LinkedIn: https://www.linkedin.com/in/geno-joshua-b5053b273/
+- Email: genojoshua83@gmail.com
 
 Thanks for stopping by! Feel free to explore my projects, contribute, or reach out. 🚀
 
