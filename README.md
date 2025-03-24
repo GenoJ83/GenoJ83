@@ -3,7 +3,6 @@
 Welcome to my GitHub portfolio! I'm passionate about technology, research, and customization, blending creativity with problem-solving. Here, you'll find projects that reflect my interests and skills.
 
 ## 🚀 About Me
-- 💡 **Founder of Burpees** – Specializing in customized bags.
 - 📚 **Researcher** – Currently working on rural electrification solutions.
 - ✍️ **Writer** – Occasionally penning down thoughts and insights.
 - 🛠️ **Tech Enthusiast** – Always exploring new tools and technologies.
