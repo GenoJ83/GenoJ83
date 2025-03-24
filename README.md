@@ -42,7 +42,7 @@ Investigating **sustainable energy solutions** for rural communities to bridge t
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GenoJ83&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GenoJ83&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GenoJ83&layout=compact&theme=radical&hide_border=true)
   
 </div>
