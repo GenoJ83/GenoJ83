@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I'm a **researcher, writer, and tech enthusiast*
 🔗 *Repository coming soon!*  
 
 ### 🖥️ **Web Development Projects**  
-- **[Portfolio Website](https://github.com/GenoJ83/portfolio)** – Built with React + Tailwind CSS.  
+- **[Portfolio Website](https://genoj83.github.io/Portfolio/)** – Built with React + Tailwind CSS.  
 - **[Community Dashboard](https://github.com/GenoJ83/community-dashboard)** – Interactive data visualization tool.  
 
 ---
