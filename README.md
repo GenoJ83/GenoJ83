@@ -18,7 +18,6 @@ Investigating **sustainable energy solutions** for rural communities to bridge t
 - **Portfolio Website** - Built with React and Tailwind CSS  
 - **Community Dashboard** - Interactive data visualization tool  
 
-*(Add links to your repositories when available)*  
 
 ## 🛠️ Tech Stack  
 
