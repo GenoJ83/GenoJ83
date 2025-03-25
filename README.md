@@ -48,8 +48,7 @@ Investigating **sustainable energy solutions** for rural communities to bridge t
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=GenoJ83&theme=radical&hide_border=true)
-  
+![GitHub Streak](https://streak-stats.demolab.com/?user=GenoJ83&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
 </div>
 
 ## 📫 Let's Connect!  
