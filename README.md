@@ -5,7 +5,6 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passion
 ## 🚀 About Me  
 
 - 🔍 **Researcher** – Currently working on **rural electrification solutions** to empower underserved communities.  
-- ✍️ **Writer** – Sharing insights on tech, sustainability, and personal growth.  
 - 💻 **Tech Enthusiast** – Constantly exploring new tools, frameworks, and open-source contributions.  
 - 🌱 **Currently Learning** – Advanced React, renewable energy systems, and AI for social impact.  
 
