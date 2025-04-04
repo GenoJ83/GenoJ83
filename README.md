@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passion
 
 ### 🖥️ **Web Development Projects**  
 - **[Portfolio Website](https://genoj83.github.io/Portfolio/)** – Built with React + Tailwind CSS.  
-- **[Job Portal](https://github.com/GenoJ83/community-dashboard)** – Interactive data visualization tool.  
+- **[Job Portal](https://github.com/GenoJ83/community-dashboard)** – Interactive Job Portal for Application.  
 
 ---
 
