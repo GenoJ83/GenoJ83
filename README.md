@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passion
 
 ## 🔥 Featured Projects  
 
-### 🌍 **Rural Electrification Research**  
+### 🌍 **Rural Electrification Research Project**  
 *Investigating sustainable energy solutions for rural communities.*  
 🔗 *Repository coming soon!*  
 
