@@ -12,8 +12,8 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passion
 
 ## 🔥 Featured Projects  
 
-### 🌍 **Rural Electrification Research Project**  
-*Investigating sustainable energy solutions for rural communities.*  
+### 🌍 **Intelligent Traffic Management System Project**  
+*An Arduino-Based Solution Combining Edge AI, Machine Learning and LoRaWAN.*  
 🔗 *Repository coming soon!*  
 
 ### 🖥️ **Web Development Projects**  
