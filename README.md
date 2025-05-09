@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passion
 
 ### 🌍 **Intelligent Traffic Management System Project**  
 *An Arduino-Based Solution Combining Edge AI, Machine Learning and LoRaWAN.*  
-- **[IntelliTraffic](https://github.com/GenoJ83/IntelliTraffic-Management)
+- **[IntelliTraffic](https://github.com/GenoJ83/IntelliTraffic-Management)**
 
 ### 🖥️ **Web Development Projects**  
 - **[Portfolio Website](https://genoj83.github.io/Portfolio/)** – Built with React + Tailwind CSS.  
