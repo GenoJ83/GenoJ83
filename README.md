@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passion
 - **[IntelliTraffic](https://github.com/GenoJ83/IntelliTraffic-Management)**
 
 ### 🖥️ **Web Development Projects**  
-- **![Portfolio Website](https://genoj83.github.io/Portfolio/)** – Built with React + Tailwind CSS.  
+- **[Portfolio Website](https://genoj83.github.io/Portfolio/)** – Built with React + Tailwind CSS.  
 - C– Interactive Job Portal for Application.  
 
 ---
