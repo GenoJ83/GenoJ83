@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passion
 
 ## 🚀 About Me  
 
-- 🔍 **Researcher** – Currently working on an ** electrification solutions** to empower underserved communities.  
+- 🔍 **Researcher** – Currently working on an **Intelligent Traffic Management System** to empower underserved communities.  
 - 💻 **Tech Enthusiast** – Constantly exploring new tools, frameworks, and open-source contributions.  
 - 🌱 **Currently Learning** – Advanced React, renewable energy systems and AI for social impact.  
 
