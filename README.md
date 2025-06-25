@@ -13,7 +13,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passion
 ## 🔥 Featured Projects  
 
 ### 🌍 **Intelligent Traffic Management System Project**  
-*An Arduino-Based Solution Combining Edge AI, Machine Learning and LoRaWAN.
+*An Arduino-Based Solution Combining Edge AI, Machine Learning
  for real time traffic notifications.*  
 - **[Roadwise TMS](https://github.com/GenoJ83/Roadwise-TMS)**
 
