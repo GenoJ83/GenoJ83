@@ -70,6 +70,6 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passion
 ---
 
 ### 🔥 **Daily Streak Tip**  
-To maintain your streak:  
+maintain your streak:  
 ```bash
 echo "# $(date)" >> streak.md && git add . && git commit -m "Daily update" && git push
