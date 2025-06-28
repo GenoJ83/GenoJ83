@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Geno Joshua!  
+# 👋 Welcome, I'm Geno Joshua!  
 
 Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passionate about blending creativity with problem-solving. Here, you'll find projects that reflect my journey in **technology, sustainability, and innovation**.  
 
