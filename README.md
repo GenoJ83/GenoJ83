@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passion
 
 - 🔍 **Researcher** – Currently working on an **Intelligent Traffic Management System** to solve traffic challenges with in Kampala.  
 - 💻 **Tech Enthusiast** – Constantly exploring new tools, frameworks, and open-source contributions.  
-- 🌱 **Currently Learning** – Advanced React, renewable energy systems and AI for social impact.  
+- 🌱 **Currently Learning** – Machine Learning, renewable energy systems and AI for social impact.  
 
 ---
 
