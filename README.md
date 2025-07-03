@@ -73,3 +73,5 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passion
 maintain your streak:  
 ```bash
 echo "# $(date)" >> streak.md && git add . && git commit -m "Daily update" && git push
+
+[![committers.top badge](https://user-badge.committers.top/uganda_private/USERNAME.svg)](https://user-badge.committers.top/uganda_private/USERNAME)
