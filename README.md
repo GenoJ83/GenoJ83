@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passion
 
 ---
 
-## 🔥 Featured Projects  
+## 🔥 Featured  
 
 ### 🌍 **Intelligent Traffic Management System Project**  
 *An Arduino-Based Solution Combining Computer Vision, Machine Learning and ESP8266
