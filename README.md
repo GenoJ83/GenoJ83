@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passionate about blending creativity with problem-solving. Here, you'll find projects that reflect my journey in **technology, sustainability, and innovation**.  
 
-## 🚀 About Me  
+## 🚀 About   
 
 - 🔍 **Researcher** – Currently working on an **Intelligent Traffic Management System** to solve traffic challenges with in Kampala.  
 - 💻 **Tech Enthusiast** – Constantly exploring new tools, frameworks, and open-source contributions.  
