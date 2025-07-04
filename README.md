@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passion
 
 ---
 
-## 🚀 About 
+## 🚀 About Me
 
 - 🔬 **Researcher** – Currently developing an **Intelligent Traffic Management System** to address traffic challenges in Kampala.  
 - 💻 **Tech Explorer** – Always experimenting with new tools, frameworks, and contributing to open-source projects.  
