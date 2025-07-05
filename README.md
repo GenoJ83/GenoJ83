@@ -24,7 +24,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passion
 
 ---
 
-## 🛠️ Tech 
+## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
