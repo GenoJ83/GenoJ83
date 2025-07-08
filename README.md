@@ -56,6 +56,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** passion
 [![committers.top badge](https://user-badge.committers.top/uganda_private/GenoJ83.svg)](https://user-badge.committers.top/uganda_private/GenoJ83)
 
 </div>
+
 ## 🏆 My GitHub Trophies
 
 <div align="center">
