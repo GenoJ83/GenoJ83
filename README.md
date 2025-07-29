@@ -107,9 +107,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 
 ---
 
-## 🧠 Daily Quotes
-
-Stay inspired with these rotating quotes:
+## 🧠 Daily Quotes 
 
 ![Quote SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines="Code+is+poetry+for+machines";"Innovation+starts+with+a+single+commit";"Build+today,+impact+tomorrow";"Tech+transforms,+passion+drives")
 
