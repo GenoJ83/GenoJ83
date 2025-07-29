@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 
 ---
 
-## 🔥 Featured 
+## 🔥 Featured Projects 
 
 ### 🌍 [Roadwise TMS](https://github.com/GenoJ83/Roadwise-TMS)
 *An Arduino-based intelligent traffic management system using Computer Vision, Machine Learning, and ESP8266 for real-time traffic control and notifications. Aligned with SDGs 3, 9, and 11 for safer, smarter cities.*
