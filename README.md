@@ -23,7 +23,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 ### 🌍 [Roadwise TMS](https://github.com/GenoJ83/Roadwise-TMS)
 *An Arduino-based intelligent traffic management system using Computer Vision, Machine Learning, and ESP8266 for real-time traffic control and notifications. Aligned with SDGs 3, 9, and 11 for safer, smarter cities.*
 
-### 🖥️ [Portfolio Website](https://genoj83.github.io/Portfolio/)
+### 🖥️ [Portfolio Website](https://genoj83.vercel.app/)
 *A sleek personal website showcasing my work, built with React and Tailwind CSS.*
 
 ### 📚 [The Odin Project](https://github.com/GenoJ83/odin-project)
