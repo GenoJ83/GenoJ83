@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 
 ---
 
-## 🚀 About 
+## 🚀 About Me
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
