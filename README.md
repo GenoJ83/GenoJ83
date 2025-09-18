@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Geno Joshua!
 
-Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Kampala, Uganda, passionate about blending **technology, sustainability, and innovation** to solve real-world challenges. Explore my projects to see how I’m shaping the future, one commit at a time!
+ to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Kampala, Uganda, passionate about blending **technology, sustainability, and innovation** to solve real-world challenges. Explore my projects to see how I’m shaping the future, one commit at a time!
 
 ---
 
