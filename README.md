@@ -33,7 +33,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 
 ---
 
-## 🛠️ Tech 
+## 🛠️ Tech Stack
 
 <div align="center">
 
