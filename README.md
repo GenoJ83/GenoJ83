@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Building...;Building...)
+    ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Building...;Building...)
 
 # 👋 Hey there, I'm Geno Joshua!
 Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Kampala, Uganda, passionate about blending **technology, sustainability, and innovation** to solve real-world challenges. Explore my projects to see how I’m shaping the future, one commit at a time!
@@ -33,7 +33,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech 
 
 <div align="center">
 
