@@ -101,16 +101,16 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 
 ---
 
-## 📊 GitHub Stats & Rankings
+## 📊 GitHub Stats & Global Rankings
 
-### 🇺🇬 **Uganda Developer Ranking**
+### 🌍 **GLOBAL GitHub Ranking**
 <div align="center">
-  [![committers.top badge](https://user-badge.committers.top/uganda/GenoJ83.svg)](https://user-badge.committers.top/uganda/GenoJ83)
+  <img src="https://github-profile-trophy.vercel.app/?username=GenoJ83&theme=onedark&row=1&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=true&title=Global+Rank,Contributions,Stars,Commits,PRs,ProfileViews,Issues,State" alt="Global GitHub Ranking" />
 </div>
 
-### 🌟 **GitHub Top Ranking**
+### 🇺🇬 **Uganda Developer Ranking** 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GenoJ83&theme=onedark&row=1&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=true" alt="GitHub Top Ranking" />
+  [![committers.top badge](https://user-badge.committers.top/uganda/GenoJ83.svg?v=1)](https://user-badge.committers.top/uganda/GenoJ83)
 </div>
 
 ### 📈 **Core Stats**
