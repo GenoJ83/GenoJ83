@@ -101,36 +101,44 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Rankings
 
-### 🔢 **Reliable Stats Cards** (Always Load)
+### 🌟 **GitHub Top Ranking**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GenoJ83&theme=onedark&row=1&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=true&title=GitHub+Top,Contributions,Stars,Commits,PRs,ProfileViews,Issues,State" alt="GitHub Top Ranking" />
+</div>
+
+### 📈 **Core Stats**
 <div align="center">
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GenoJ83&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GenoJ83&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GenoJ83&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GenoJ83&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF) |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 </div>
 
-### 🔥 **Activity Graph** 
+### 🔥 **Activity & Streaks**
 <div align="center">
 
-<!-- Option 1: GitHub Contributions -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GenoJ83&theme=github-compact&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GenoJ83&theme=github-compact&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="100%" />
 
-<!-- Option 2: Simple Streak (Most Reliable) -->
-<img src="https://streak-stats.demolab.com/?user=GenoJ83&theme=github-dark&hide_border=true&background=0D1117&border=36393F&dates=444444" alt="GitHub Streak" />
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=GenoJ83&theme=github-dark&hide_border=true&background=0D1117&border=36393F&dates=444444&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=F9F9F9&fire=FF5733" alt="GitHub Streak" />
 
 </div>
 
-### 🏆 **GitHub Trophies** 
+### 🏆 **Achievement Trophies**
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GenoJ83&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=true" alt="GitHub Trophies" />
 </div>
 
-### 📈 **Additional Stats** 
+### 📊 **Quick Stats Overview**
 <div align="center">
 
-| ![Stars](https://img.shields.io/github/stars/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Forks](https://img.shields.io/github/forks/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Commits](https://img.shields.io/github/commit-activity/w/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) |
+| ![Stars](https://img.shields.io/github/stars/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Forks](https://img.shields.io/github/forks/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Commits](https://img.shields.io/github/commit-activity/w/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![PRs](https://img.shields.io/github/issues-pr-closed/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) |
+|------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+
+| ![Followers](https://img.shields.io/github/followers/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Public Repos](https://img.shields.io/github/public-repositories/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Contributions](https://img.shields.io/badge/Contributions-Active-green?style=for-the-badge&logo=github&logoColor=white&color=00FF00) |
 |------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------------------|
 
 </div>
