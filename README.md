@@ -13,7 +13,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 - 💻 **Tech Explorer** – Experimenting with cutting-edge tools and contributing to open-source initiatives.
 - 🌱 **Lifelong Learner** – Deepening expertise in Machine Learning, IoT, and AI for Social Good.
 - 📍 **Location** – Uganda 🇺🇬
-- 💡 **Fun Fact** – I believe smart tech can transform cities for the better!
+- 💡 **Fun Fact** – I believe smart tech can transform lives for the better!
 
 ---
 
