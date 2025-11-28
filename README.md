@@ -111,7 +111,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 
 </div>
 
-### 🔥 **Activity Graph** (Multiple Reliable Options)
+### 🔥 **Activity Graph** 
 <div align="center">
 
 <!-- Option 1: GitHub Contributions -->
@@ -122,12 +122,12 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 
 </div>
 
-### 🏆 **GitHub Trophies** (Fixed)
+### 🏆 **GitHub Trophies** 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GenoJ83&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=true" alt="GitHub Trophies" />
 </div>
 
-### 📈 **Additional Stats** (Shields.io - Always Work)
+### 📈 **Additional Stats** 
 <div align="center">
 
 | ![Stars](https://img.shields.io/github/stars/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Forks](https://img.shields.io/github/forks/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Commits](https://img.shields.io/github/commit-activity/w/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) |
