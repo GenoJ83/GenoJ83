@@ -110,7 +110,7 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 
 ### 🇺🇬 **Uganda Developer Ranking** 
 <div align="center">
-[![committers.top badge](https://user-badge.committers.top/uganda_private/GenoJ83.svg)](https://user-badge.committers.top/uganda_private/GenoJ83)
+  [![committers.top badge](https://user-badge.committers.top/uganda_private/GenoJ83.svg)](https://user-badge.committers.top/uganda_private/GenoJ83)
 </div>
 
 ### 📈 **Core Stats**
