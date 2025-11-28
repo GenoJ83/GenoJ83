@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Building...;Building...)
 # 👋 Hey there, I'm Geno Joshua!
-Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Kampala, Uganda, passionate about blending **technology, sustainability, and innovation** to solve real-world challenges. Explore my projects to see how I'm shaping the future, one commit at a time!
+Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Kampala, Uganda, passionate about blending **technology, sustainability, and innovation** to solve real-world challenges. Explore my projects to see how I’m shaping the future, one commit at a time!
 ---
 ## 🚀 About Me
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
@@ -13,18 +13,12 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 ## 🔥 Featured Projects
 ### 🌍 [Roadwise TMS](https://github.com/GenoJ83/Roadwise-TMS)
 *An Arduino-based intelligent traffic management system using Computer Vision, Machine Learning, and ESP8266 for real-time traffic control and notifications. Aligned with SDGs 3, 9, and 11 for safer, smarter cities.*
-
-### 🛡️ [UCU OWASP CTF 2025](https://github.com/GenoJ83/ucu-owasp-ctf-2025)
-*A cybersecurity capture-the-flag competition platform featuring web exploitation, cryptography, reverse engineering, and forensic challenges. Built to enhance student security skills and promote secure coding practices.*
-
-### 👐 [Gest-r](https://github.com/GenoJ83/gest-r)
-*An AI-powered sign language interpretation system using Computer Vision and Machine Learning to translate sign language gestures into text and speech in real-time. Empowering deaf and hard-of-hearing communities with accessible communication.*
-
 ### 🖥️ [Portfolio Website](https://genoj83.vercel.app/)
 *A sleek personal website showcasing my work, built with Angular and bootstrap and deployed to vercel.*
-
 ### 📚 [The Odin Project](https://github.com/GenoJ83/odin-project)
 *A comprehensive web development curriculum completed to master full-stack development, featuring hands-on projects in JavaScript, Node.js, and React.*
+### 💼 Interactive Job Portal Web App *(Coming Soon)*
+*A full-stack job platform to connect talent with opportunities.*
 ---
 ## 🛠️ Tech Stack
 <div align="center">
@@ -75,3 +69,4 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 ![Quote SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines="Code+is+poetry+for+machines";"Innovation+starts+with+a+single+commit";"Build+today,+impact+tomorrow";"Tech+transforms,+passion+drives")
 ---
 **Thanks for visiting! Let's build something amazing together!** 🚀
+ --add UCU OWASP CTF 2025 and Gest-r to the projects. remove the job portal
