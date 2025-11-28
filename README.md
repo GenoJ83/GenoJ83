@@ -102,25 +102,37 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 ---
 
 ## 📊 GitHub Stats & Activity
+
+### 🔢 **Reliable Stats Cards** (Always Load)
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GenoJ83&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GenoJ83&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=GenoJ83&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
-[![committers.top badge](https://user-badge.committers.top/uganda_private/GenoJ83.svg)](https://user-badge.committers.top/uganda_private/GenoJ83)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GenoJ83&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GenoJ83&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF) |
+|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 </div>
 
-## 🏆 My GitHub Trophies
+### 🔥 **Activity Graph** (Multiple Reliable Options)
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=GenoJ83&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Option 1: GitHub Contributions -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GenoJ83&theme=github-compact&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" />
+
+<!-- Option 2: Simple Streak (Most Reliable) -->
+<img src="https://streak-stats.demolab.com/?user=GenoJ83&theme=github-dark&hide_border=true&background=0D1117&border=36393F&dates=444444" alt="GitHub Streak" />
+
 </div>
 
----
-
-## 📈 Activity Graph
+### 🏆 **GitHub Trophies** (Fixed)
 <div align="center">
-  ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=GenoJ83&theme=react-dark&hide_border=true)
+  <img src="https://github-profile-trophy.vercel.app/?username=GenoJ83&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=true" alt="GitHub Trophies" />
+</div>
+
+### 📈 **Additional Stats** (Shields.io - Always Work)
+<div align="center">
+
+| ![Stars](https://img.shields.io/github/stars/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Forks](https://img.shields.io/github/forks/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Commits](https://img.shields.io/github/commit-activity/w/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) |
+|------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------------------|
+
 </div>
 
 ---
@@ -134,11 +146,6 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yournumber)
 
 </div>
-
----
-
-## 🧠 Daily Quotes
-![Quote SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines="Code+is+poetry+for+machines";"Innovation+starts+with+a+single+commit";"Build+today,+impact+tomorrow";"Tech+transforms,+passion+drives";"Every+bug+is+a+learning+opportunity")
 
 ---
 
@@ -156,15 +163,8 @@ Welcome to my GitHub portfolio! I'm a **researcher and tech enthusiast** from Ka
 
 ---
 
-## ✨ Additional Stats
-<div align="center">
-
-[![GitHub Followers](https://img.shields.io/github/followers/GenoJ83?style=social&logo=github)](https://github.com/GenoJ83)
-[![GitHub Stars](https://img.shields.io/github/stars/GenoJ83?style=social&logo=github)](https://github.com/GenoJ83)
-[![GitHub Issues](https://img.shields.io/github/issues/GenoJ83?style=social&logo=github)](https://github.com/GenoJ83/issues)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/GenoJ83?style=social&logo=github)](https://github.com/GenoJ83/pulls)
-
-</div>
+## 🧠 Daily Quotes
+![Quote SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines="Code+is+poetry+for+machines";"Innovation+starts+with+a+single+commit";"Build+today,+impact+tomorrow";"Tech+transforms,+passion+drives";"Every+bug+is+a+learning+opportunity")
 
 ---
 
