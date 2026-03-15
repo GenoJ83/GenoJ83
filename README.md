@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! I'm a researcher and tech enthusiast from Kampal
 - Tech Explorer – Experimenting with cutting-edge tools and contributing to open-source initiatives.
 - Lifelong Learner – Deepening expertise in Machine Learning, IoT, and AI for Social Good.
 - Location – Kampala, Uganda
-- Fun Fact – I believe smart tech can transform lives for the better!
+- Fun Fact – I believe smart tech can transform lives for the better
 
 ---
 ## Featured Projects
@@ -90,15 +90,13 @@ A comprehensive web development curriculum completed to master full-stack develo
 
 ### Quick Tech Overview
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,angular,typescript,html,css,django,flask,fastapi,express,tensorflow,opencv,pytorch,aws,firebase,vercel,git,github,vscode,arduino,figma,postman,tailwindcss,docker" alt="Tech icons" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,angular,typescript,html,css,django,flask,fastapi,express,tensorflow,opencv,pytorch,aws,firebase,vercel,git,github,vscode,arduino,figma,postman,tailwind,docker&perline=10" />
+  </a>
 </div>
 
 ---
 ## GitHub Stats & Global Rankings
-### GLOBAL GitHub Ranking
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GenoJ83&theme=onedark&row=1&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=true&title=Global+Rank,Contributions,Stars,Commits,PRs,ProfileViews,Issues,State" alt="Global GitHub Ranking" />
-</div>
 
 ### Uganda Developer Ranking
 <div align="center">
@@ -124,9 +122,10 @@ A comprehensive web development curriculum completed to master full-stack develo
 
 ### Quick Stats Overview
 <div align="center">
-| ![Stars](https://img.shields.io/github/stars/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Forks](https://img.shields.io/github/forks/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Commits](https://img.shields.io/github/commit-activity/w/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![PRs](https://img.shields.io/github/issues-pr-closed/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) |
-|------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
-| ![Followers](https://img.shields.io/github/followers/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Public Repos](https://img.shields.io/github/public-repositories/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Contributions](https://img.shields.io/badge/Contributions-Active-green?style=for-the-badge&logo=github&logoColor=white&color=00FF00) |
+
+| ![Stars](https://img.shields.io/github/stars/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Forks](https://img.shields.io/github/forks/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Followers](https://img.shields.io/github/followers/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=5865F2&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGenoJ83) |
+|------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 </div>
 
 ---
@@ -134,13 +133,12 @@ A comprehensive web development curriculum completed to master full-stack develo
 <div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geno-joshua-b5053b273/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:genojoshua83@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yournumber)
 </div>
 
 ---
 ## Quick Access
 <div align="center">
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Roadwise TMS](https://github.com/GenoJ83/Roadwise-TMS) | AI Traffic Management | Python, OpenCV, Arduino |
@@ -148,6 +146,7 @@ A comprehensive web development curriculum completed to master full-stack develo
 | [OWASP CTF](https://ucu-owasp-ctf.vercel.app/) | Cybersecurity Platform | Node.js, Docker, MongoDB |
 | [Gest-r](https://github.com/GenoJ83/gest-r) | Sign Language Interpreter | TensorFlow, OpenCV |
 | [Portfolio](https://genoj83.vercel.app/) | Personal Website | Angular, TypeScript |
+
 </div>
 
 ---
