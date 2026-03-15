@@ -96,43 +96,50 @@ A comprehensive web development curriculum completed to master full-stack develo
 </div>
 
 ---
-## GitHub Stats & Global Rankings
+## GitHub Stats
 
 ### Uganda Developer Ranking
 <div align="center">
-  [![committers.top badge](https://user-badge.committers.top/uganda_private/GenoJ83.svg)](https://user-badge.committers.top/uganda_private/GenoJ83)
+  <a href="https://committers.top/uganda_private#GenoJ83">
+    <img src="https://user-badge.committers.top/uganda_private/GenoJ83.jpg" alt="committers.top badge" width="200"/>
+  </a>
 </div>
 
 ### Core Stats
 <div align="center">
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GenoJ83&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GenoJ83&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF) |
-|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+  <img src="https://github-readme-stats.vercel.app/api?username=GenoJ83&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenoJ83&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF" alt="Top Languages" width="45%" />
 </div>
 
 ### Activity & Streaks
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GenoJ83&theme=github-compact&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="100%" />
-<img src="https://streak-stats.demolab.com/?user=GenoJ83&theme=github-dark&hide_border=true&background=0D1117&border=36393F&dates=444444&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=F9F9F9&fire=FF5733" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GenoJ83&theme=github-compact&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="95%" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=GenoJ83&theme=github-dark&hide_border=true&background=0D1117&border=36393F&dates=444444&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=F9F9F9&fire=FF5733" alt="GitHub Streak" width="90%" />
 </div>
 
 ### Achievement Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GenoJ83&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GenoJ83&theme=onedark&column=6&margin-w=15&margin-h=15&no-frame=false&no-bg=true" alt="GitHub Trophies" width="95%" />
 </div>
 
 ### Quick Stats Overview
 <div align="center">
-
-| ![Stars](https://img.shields.io/github/stars/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Forks](https://img.shields.io/github/forks/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Followers](https://img.shields.io/github/followers/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2) | ![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=5865F2&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGenoJ83) |
-|------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-
+  <img src="https://img.shields.io/github/stars/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2" alt="Followers" />
+  <img src="https://img.shields.io/github/forks/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2" alt="Forks" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=5865F2&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGenoJ83" alt="Repos" />
 </div>
 
 ---
 ## Let's Connect
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geno-joshua-b5053b273/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:genojoshua83@gmail.com)
+  <a href="https://www.linkedin.com/in/geno-joshua-b5053b273/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:genojoshua83@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ---
