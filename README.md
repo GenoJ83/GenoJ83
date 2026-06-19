@@ -146,12 +146,6 @@ Personal website showcasing my work, built with Angular and Bootstrap.
   <img src="https://streak-stats.demolab.com/?user=GenoJ83&theme=github-dark&hide_border=true&background=0D1117&border=36393F&dates=444444&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=F9F9F9&fire=FF5733" alt="GitHub Streak" width="90%" />
 </div>
 
-### Achievement Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GenoJ83&theme=onedark&column=6&margin-w=15&margin-h=15&no-frame=false&no-bg=true" alt="GitHub Trophies" width="95%" />
-</div>
-
 ### Quick Stats Overview
 
 <div align="center">
