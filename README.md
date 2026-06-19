@@ -131,16 +131,6 @@ Personal website showcasing my work, built with Angular and Bootstrap.
 
 ## GitHub Stats
 
-### Uganda Developer Ranking
-
-<div align="center">
-  <a href="https://committers.top/uganda_private#GenoJ83">
-    <img src="https://user-badge.committers.top/uganda_private/GenoJ83.jpg" alt="committers.top badge" width="200"/>
-  </a>
-  <br>
-  <em>Ranked among top developers in Uganda</em>
-</div>
-
 ### Core Stats
 
 <div align="center">
@@ -167,8 +157,6 @@ Personal website showcasing my work, built with Angular and Bootstrap.
 <div align="center">
   <img src="https://img.shields.io/github/stars/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2" alt="Stars" />
   <img src="https://img.shields.io/github/followers/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2" alt="Followers" />
-  <img src="https://img.shields.io/github/forks/GenoJ83?style=for-the-badge&logo=github&logoColor=white&color=5865F2" alt="Forks" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=5865F2&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGenoJ83" alt="Repos" />
 </div>
 
 ---
