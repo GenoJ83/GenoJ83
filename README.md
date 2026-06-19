@@ -137,6 +137,8 @@ Personal website showcasing my work, built with Angular and Bootstrap.
   <a href="https://committers.top/uganda_private#GenoJ83">
     <img src="https://user-badge.committers.top/uganda_private/GenoJ83.jpg" alt="committers.top badge" width="200"/>
   </a>
+  <br>
+  <em>Ranked among top developers in Uganda</em>
 </div>
 
 ### Core Stats
@@ -150,7 +152,7 @@ Personal website showcasing my work, built with Angular and Bootstrap.
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GenoJ83&theme=github-compact&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="95%" />
-  <br>
+  <br><br>
   <img src="https://streak-stats.demolab.com/?user=GenoJ83&theme=github-dark&hide_border=true&background=0D1117&border=36393F&dates=444444&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=F9F9F9&fire=FF5733" alt="GitHub Streak" width="90%" />
 </div>
 
